@@ -40,3 +40,4 @@ results=collection.query(
 for doc in results ["documents"][0]:
     print(doc)
     print("---")
+    
